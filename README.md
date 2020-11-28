@@ -9,3 +9,6 @@ Dejo enlace de codigo fuente en el sigueinte link: https://drive.google.com/file
 3. Navigate the browser to the local webpage.
 
 ![Screenshot](cap.png)
+![Screenshot](screen1.png)
+![Screenshot](screen2.png)
+![Screenshot](screen3.png)

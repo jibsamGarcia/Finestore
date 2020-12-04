@@ -7,6 +7,7 @@ Dejo enlace de codigo fuente en el sigueinte link: https://drive.google.com/file
 1. Instalar bitnami e importar los archivos (.xml, .wpress).
 2. En bitnami Wordpress Go to Application.
 3. Navigate the browser to the local webpage.
+### Derechos de autor
 Copyright © 2020 Finestore todos los derechos reservados
 
 ![Screenshot](cap.png)

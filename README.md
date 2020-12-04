@@ -12,3 +12,4 @@ Dejo enlace de codigo fuente en el sigueinte link: https://drive.google.com/file
 ![Screenshot](screen1.png)
 ![Screenshot](screen2.png)
 ![Screenshot](screen3.png)
+Copyright © 2020 Finestore todos los derechos reservados
